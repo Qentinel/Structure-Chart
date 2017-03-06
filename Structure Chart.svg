@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5009px" height="1401px" viewBox="0 0 5009 1401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>graduation project sketch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1116" y="230" width="80" height="80"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="1256" y="239" width="100" height="60"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="1256" y="311" width="100" height="60"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="1256" y="382" width="100" height="60"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="1256" y="453" width="100" height="60"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="322" y="260" width="100" height="60"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="322" y="332" width="100" height="60"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="322" y="403" width="100" height="60"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="322" y="474" width="100" height="60"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <rect id="path-19" x="482" y="260" width="50" height="60"></rect>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <rect id="path-21" x="531" y="260" width="50" height="60"></rect>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <rect id="path-23" x="642" y="332" width="100" height="60"></rect>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <rect id="path-25" x="642" y="403" width="100" height="60"></rect>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <rect id="path-27" x="498" y="332" width="25" height="60"></rect>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <rect id="path-29" x="522" y="332" width="25" height="60"></rect>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-29"></use>
+        </mask>
+        <rect id="path-31" x="546" y="332" width="25" height="60"></rect>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <rect id="path-33" x="484" y="403" width="25" height="60"></rect>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <rect id="path-35" x="508" y="403" width="25" height="60"></rect>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <rect id="path-37" x="532" y="403" width="25" height="60"></rect>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <rect id="path-39" x="556" y="403" width="25" height="60"></rect>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <rect id="path-41" x="482" y="474" width="100" height="60"></rect>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <rect id="path-43" x="1" y="59" width="80" height="80"></rect>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-43"></use>
+        </mask>
+        <rect id="path-45" x="162" y="259" width="80" height="80"></rect>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-45"></use>
+        </mask>
+        <rect id="path-47" x="162" y="99" width="80" height="80"></rect>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-47"></use>
+        </mask>
+        <rect id="path-49" x="2498" y="239" width="79" height="80"></rect>
+        <mask id="mask-50" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-49"></use>
+        </mask>
+        <rect id="path-51" x="2658" y="277" width="99" height="80"></rect>
+        <mask id="mask-52" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99" height="80" fill="white">
+            <use xlink:href="#path-51"></use>
+        </mask>
+        <rect id="path-53" x="2658" y="198" width="99" height="80"></rect>
+        <mask id="mask-54" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99" height="80" fill="white">
+            <use xlink:href="#path-53"></use>
+        </mask>
+        <rect id="path-55" x="0" y="148" width="80" height="80"></rect>
+        <mask id="mask-56" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-55"></use>
+        </mask>
+        <rect id="path-57" x="3036" y="204" width="24" height="60"></rect>
+        <mask id="mask-58" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="60" fill="white">
+            <use xlink:href="#path-57"></use>
+        </mask>
+        <rect id="path-59" x="3060" y="204" width="24" height="60"></rect>
+        <mask id="mask-60" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="60" fill="white">
+            <use xlink:href="#path-59"></use>
+        </mask>
+        <rect id="path-61" x="3084" y="204" width="24" height="60"></rect>
+        <mask id="mask-62" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="60" fill="white">
+            <use xlink:href="#path-61"></use>
+        </mask>
+        <rect id="path-63" x="3108" y="204" width="24" height="60"></rect>
+        <mask id="mask-64" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="60" fill="white">
+            <use xlink:href="#path-63"></use>
+        </mask>
+        <rect id="path-65" x="3025" y="290" width="99" height="60"></rect>
+        <mask id="mask-66" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="99" height="60" fill="white">
+            <use xlink:href="#path-65"></use>
+        </mask>
+        <rect id="path-67" x="642" y="260" width="50" height="60"></rect>
+        <mask id="mask-68" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-67"></use>
+        </mask>
+        <rect id="path-69" x="691" y="260" width="50" height="60"></rect>
+        <mask id="mask-70" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-69"></use>
+        </mask>
+        <rect id="path-71" x="322" y="910" width="100" height="60"></rect>
+        <mask id="mask-72" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-71"></use>
+        </mask>
+        <rect id="path-73" x="322" y="982" width="100" height="60"></rect>
+        <mask id="mask-74" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-73"></use>
+        </mask>
+        <rect id="path-75" x="322" y="1053" width="100" height="60"></rect>
+        <mask id="mask-76" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-75"></use>
+        </mask>
+        <rect id="path-77" x="322" y="1124" width="100" height="60"></rect>
+        <mask id="mask-78" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-77"></use>
+        </mask>
+        <rect id="path-79" x="482" y="910" width="50" height="60"></rect>
+        <mask id="mask-80" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-79"></use>
+        </mask>
+        <rect id="path-81" x="531" y="910" width="50" height="60"></rect>
+        <mask id="mask-82" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-81"></use>
+        </mask>
+        <rect id="path-83" x="642" y="982" width="100" height="60"></rect>
+        <mask id="mask-84" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-83"></use>
+        </mask>
+        <rect id="path-85" x="642" y="1053" width="100" height="60"></rect>
+        <mask id="mask-86" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-85"></use>
+        </mask>
+        <rect id="path-87" x="498" y="982" width="25" height="60"></rect>
+        <mask id="mask-88" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-87"></use>
+        </mask>
+        <rect id="path-89" x="522" y="982" width="25" height="60"></rect>
+        <mask id="mask-90" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-89"></use>
+        </mask>
+        <rect id="path-91" x="546" y="982" width="25" height="60"></rect>
+        <mask id="mask-92" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-91"></use>
+        </mask>
+        <rect id="path-93" x="483" y="1053" width="25" height="60"></rect>
+        <mask id="mask-94" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-93"></use>
+        </mask>
+        <rect id="path-95" x="507" y="1053" width="25" height="60"></rect>
+        <mask id="mask-96" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-95"></use>
+        </mask>
+        <rect id="path-97" x="531" y="1053" width="25" height="60"></rect>
+        <mask id="mask-98" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-97"></use>
+        </mask>
+        <rect id="path-99" x="482" y="1124" width="100" height="60"></rect>
+        <mask id="mask-100" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="60" fill="white">
+            <use xlink:href="#path-99"></use>
+        </mask>
+        <rect id="path-101" x="1" y="699" width="80" height="80"></rect>
+        <mask id="mask-102" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-101"></use>
+        </mask>
+        <rect id="path-103" x="162" y="909" width="80" height="80"></rect>
+        <mask id="mask-104" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-103"></use>
+        </mask>
+        <rect id="path-105" x="162" y="749" width="80" height="80"></rect>
+        <mask id="mask-106" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-105"></use>
+        </mask>
+        <rect id="path-107" x="1" y="789" width="80" height="80"></rect>
+        <mask id="mask-108" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="80" fill="white">
+            <use xlink:href="#path-107"></use>
+        </mask>
+        <rect id="path-109" x="555" y="1053" width="25" height="60"></rect>
+        <mask id="mask-110" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="60" fill="white">
+            <use xlink:href="#path-109"></use>
+        </mask>
+        <rect id="path-111" x="642" y="910" width="50" height="60"></rect>
+        <mask id="mask-112" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-111"></use>
+        </mask>
+        <rect id="path-113" x="691" y="910" width="50" height="60"></rect>
+        <mask id="mask-114" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="60" fill="white">
+            <use xlink:href="#path-113"></use>
+        </mask>
+        <rect id="path-115" x="2428" y="480" width="79" height="80"></rect>
+        <mask id="mask-116" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-115"></use>
+        </mask>
+        <rect id="path-117" x="2831" y="480" width="79" height="80"></rect>
+        <mask id="mask-118" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-117"></use>
+        </mask>
+        <rect id="path-119" x="3029" y="607" width="79" height="80"></rect>
+        <mask id="mask-120" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-119"></use>
+        </mask>
+        <rect id="path-121" x="2616" y="821" width="79" height="80"></rect>
+        <mask id="mask-122" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-121"></use>
+        </mask>
+        <rect id="path-123" x="1651" y="228" width="79" height="80"></rect>
+        <mask id="mask-124" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-123"></use>
+        </mask>
+        <rect id="path-125" x="2076" y="298" width="79" height="80"></rect>
+        <mask id="mask-126" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-125"></use>
+        </mask>
+        <rect id="path-127" x="2076" y="165" width="79" height="80"></rect>
+        <mask id="mask-128" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-127"></use>
+        </mask>
+        <rect id="path-129" x="2616" y="1321" width="79" height="80"></rect>
+        <mask id="mask-130" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-129"></use>
+        </mask>
+        <rect id="path-131" x="2616" y="1071" width="79" height="80"></rect>
+        <mask id="mask-132" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-131"></use>
+        </mask>
+        <rect id="path-133" x="3344" y="537" width="79" height="80"></rect>
+        <mask id="mask-134" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-133"></use>
+        </mask>
+        <rect id="path-135" x="3762" y="537" width="79" height="80"></rect>
+        <mask id="mask-136" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-135"></use>
+        </mask>
+        <rect id="path-137" x="3353" y="805" width="79" height="80"></rect>
+        <mask id="mask-138" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-137"></use>
+        </mask>
+        <rect id="path-139" x="3721" y="805" width="79" height="80"></rect>
+        <mask id="mask-140" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-139"></use>
+        </mask>
+        <rect id="path-141" x="4275" y="631" width="79" height="80"></rect>
+        <mask id="mask-142" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-141"></use>
+        </mask>
+        <rect id="path-143" x="4653" y="631" width="79" height="80"></rect>
+        <mask id="mask-144" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-143"></use>
+        </mask>
+        <rect id="path-145" x="4275" y="891" width="79" height="80"></rect>
+        <mask id="mask-146" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-145"></use>
+        </mask>
+        <rect id="path-147" x="4653" y="891" width="79" height="80"></rect>
+        <mask id="mask-148" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-147"></use>
+        </mask>
+        <rect id="path-149" x="4275" y="1151" width="79" height="80"></rect>
+        <mask id="mask-150" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-149"></use>
+        </mask>
+        <rect id="path-151" x="4653" y="1151" width="79" height="80"></rect>
+        <mask id="mask-152" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-151"></use>
+        </mask>
+        <rect id="path-153" x="3427" y="228" width="79" height="80"></rect>
+        <mask id="mask-154" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-153"></use>
+        </mask>
+        <rect id="path-155" x="3777" y="295" width="79" height="80"></rect>
+        <mask id="mask-156" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-155"></use>
+        </mask>
+        <rect id="path-157" x="3777" y="162" width="79" height="80"></rect>
+        <mask id="mask-158" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-157"></use>
+        </mask>
+        <rect id="path-159" x="4327" y="269" width="79" height="80"></rect>
+        <mask id="mask-160" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-159"></use>
+        </mask>
+        <rect id="path-161" x="4677" y="267" width="79" height="80"></rect>
+        <mask id="mask-162" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-161"></use>
+        </mask>
+        <rect id="path-163" x="4677" y="162" width="79" height="80"></rect>
+        <mask id="mask-164" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-163"></use>
+        </mask>
+        <rect id="path-165" x="4677" y="371" width="79" height="80"></rect>
+        <mask id="mask-166" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="79" height="80" fill="white">
+            <use xlink:href="#path-165"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="激活登录界面" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="1061" y="179">激活登录界面</tspan>
+        </text>
+        <text id="Active&amp;Login" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="1067.21" y="197">Active&amp;Login</tspan>
+        </text>
+        <text id="登录界面" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal">
+            <tspan x="921" y="149">登录界面</tspan>
+        </text>
+        <text id="Login" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="925.1" y="167">Login</tspan>
+        </text>
+        <text id="好友列表界面" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="1270" y="265">好友列表界面</tspan>
+        </text>
+        <text id="BuddyList" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1278.346" y="282">BuddyList</tspan>
+        </text>
+        <text id="动态界面" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="1282" y="337">动态界面</tspan>
+        </text>
+        <text id="Trend" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1289.896" y="354">Trend</tspan>
+        </text>
+        <text id="左侧个人侧滑视图" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="1258" y="408">左侧个人侧滑视图</tspan>
+        </text>
+        <text id="Left" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1294.774" y="425">Left</tspan>
+        </text>
+        <text id="下端当前聊天视图" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="1258" y="479">下端当前聊天视图</tspan>
+        </text>
+        <text id="左侧个人侧滑视图" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="2659.5" y="243">左侧个人侧滑视图</tspan>
+        </text>
+        <text id="下端当前聊天视图" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+            <tspan x="2659.5" y="323">下端当前聊天视图</tspan>
+        </text>
+        <text id="Under" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1289.326" y="496">Under</tspan>
+        </text>
+        <path d="M1051,161 L991,161" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M991,161 L1001.8,164 L1001.8,158 L991,161 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M991,167 L1051,167" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M1051,167 L1040.2,164 L1040.2,170 L1051,167 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="激活界面" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal">
+            <tspan x="921" y="189">激活界面</tspan>
+        </text>
+        <text id="Active" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="923.74" y="207">Active</tspan>
+        </text>
+        <path d="M1051,181 L991,181" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M991,181 L1001.8,184 L1001.8,178 L991,181 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M991,187 L1051,187" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M1051,187 L1040.2,184 L1040.2,190 L1051,187 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1086,210 L1086,240" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1196,269 L1256,269" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1086,240 L1116,240" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1226,269 L1226,482" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1226,340 L1256,340" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1226,411 L1256,411" id="Line" stroke="#979797" stroke-dasharray="5,5"></path>
+        <path d="M1226,482 L1256,482" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="5"></path>
+        <use id="Rectangle-1" stroke="#9B9B9B" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+        <text id="总导航控制器" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1121" y="248">总导航控制</tspan>
+            <tspan x="1121" y="265">器</tspan>
+        </text>
+        <text id="Ahead" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1138.10598" y="285">Ahead</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-3"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-5"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-7"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-9"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-12)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-11"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-14)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-13"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-16)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-15"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-18)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-17"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-20)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-19"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-22)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-21"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-24)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-23"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-26)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-25"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-28)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-27"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-30)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-29"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-32)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-31"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-34)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-33"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-36)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-35"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-38)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-37"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-40)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-39"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-42)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-41"></use>
+        <path d="M1356,270 L1416,270" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1356,341 L1416,341" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1356,483 L1416,483" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1356,412 L1416,412" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2758,320 L2817,320" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2758,240 L2817,240" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="展示好友列表，暂时不分组，后期优化再分" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1417" y="274">展示好友列表，暂时不分组，后期优</tspan>
+            <tspan x="1417" y="291">化再分</tspan>
+        </text>
+        <text id="分三大类动态：学校、兴趣、班级" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1417" y="344">分三大类动态：学校、兴趣、班级</tspan>
+        </text>
+        <text id="个人信息栏、搜索、摇人、设置、退出" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1417" y="415">个人信息栏、搜索、摇人、设置、退</tspan>
+            <tspan x="1417" y="432">出</tspan>
+        </text>
+        <text id="显示最后一个发过消息的好友，及最后一条消" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1417" y="486">显示最后一个发过消息的好友，及最</tspan>
+            <tspan x="1417" y="503">后一条消息</tspan>
+        </text>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-44)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-43"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-46)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-45"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-48)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-47"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-50)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-49"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-52)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-51"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-54)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-53"></use>
+        <path d="M1056,300 L1116,300" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M1116,300 L1105.2,297 L1105.2,303 L1116,300 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M152,119 L92,119" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M92,119 L102.8,122 L102.8,116 L92,119 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M92,135 L152,135" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M152,135 L141.2,132 L141.2,138 L152,135 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M242,299 L320,299" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M320,299 L309.2,296 L309.2,302 L320,299 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M427,291 L477,291" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M477,291 L466.2,288 L466.2,294 L477,291 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M427,503 L477,503" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M477,503 L466.2,500 L466.2,506 L477,503 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M435,363 L485,363" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M485,363 L474.2,360 L474.2,366 L485,363 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M435,433 L480,433" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M480,433 L469.2,430 L469.2,436 L480,433 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M582,363 L632,363" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M632,363 L621.2,360 L621.2,366 L632,363 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M587,433 L627,433" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M627,433 L616.2,430 L616.2,436 L627,433 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M92,299 L152,299" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M152,299 L141.2,296 L141.2,302 L152,299 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M202,189 L202,249" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M202,249 L205,238.2 L199,238.2 L202,249 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="登录界面" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="21" y="102">登录界面</tspan>
+        </text>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-56)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-55"></use>
+        <path d="M151,158 L91,158" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M91,158 L101.8,161 L101.8,155 L91,158 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M91,174 L151,174" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M151,174 L140.2,171 L140.2,177 L151,174 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="激活界面" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="20" y="191">激活界面</tspan>
+        </text>
+        <text id="激活登录界面" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="173" y="143">激活登录界面</tspan>
+        </text>
+        <text id="总导航" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="185" y="304">总导航</tspan>
+        </text>
+        <text id="联系人界面（后期加群聊）" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="324" y="285">联系人界面（后期</tspan>
+            <tspan x="348" y="302">加群聊）</tspan>
+        </text>
+        <text id="动态界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="348" y="365">动态界面</tspan>
+        </text>
+        <text id="左侧个人侧滑视图" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="324" y="437">左侧个人侧滑视图</tspan>
+        </text>
+        <text id="下端当前聊天视图" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="324" y="507">下端当前聊天视图</tspan>
+        </text>
+        <text id="个人信息界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="487.771484" y="423">个人</tspan>
+            <tspan x="487.771484" y="436">信息</tspan>
+            <tspan x="487.771484" y="449">界面</tspan>
+        </text>
+        <text id="搜索界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="511.771484" y="428">搜索</tspan>
+            <tspan x="511.771484" y="441">界面</tspan>
+        </text>
+        <text id="摇人界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="535.771484" y="428">摇人</tspan>
+            <tspan x="535.771484" y="441">界面</tspan>
+        </text>
+        <text id="设置界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="558.771484" y="428">设置</tspan>
+            <tspan x="558.771484" y="441">界面</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-58)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-57"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-60)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-59"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-62)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-61"></use>
+        <text id="个人信息界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="3039.27148" y="221">个人</tspan>
+            <tspan x="3039.27148" y="234">信息</tspan>
+            <tspan x="3039.27148" y="247">界面</tspan>
+        </text>
+        <text id="搜索界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="3063.27148" y="228">搜索</tspan>
+            <tspan x="3063.27148" y="241">界面</tspan>
+        </text>
+        <text id="摇人界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="3087.27148" y="228">摇人</tspan>
+            <tspan x="3087.27148" y="241">界面</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-64)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-63"></use>
+        <text id="设置界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="3111.27148" y="228">设置</tspan>
+            <tspan x="3111.27148" y="241">界面</tspan>
+        </text>
+        <text id="学校界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="501.771484" y="358">学校</tspan>
+            <tspan x="501.771484" y="371">界面</tspan>
+        </text>
+        <text id="兴趣界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="525.771484" y="358">兴趣</tspan>
+            <tspan x="525.771484" y="371">界面</tspan>
+        </text>
+        <text id="班级界面" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="549.771484" y="358">班级</tspan>
+            <tspan x="549.771484" y="371">界面</tspan>
+        </text>
+        <text id="当前聊天好友的聊天界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="490.148438" y="498">当前聊天好友的</tspan>
+            <tspan x="508.148438" y="515">聊天界面</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-66)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-65"></use>
+        <text id="当前聊天好友的聊天界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3032.64844" y="314">当前聊天好友的</tspan>
+            <tspan x="3050.64844" y="331">聊天界面</tspan>
+        </text>
+        <text id="好友的列表" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="483" y="286">好友的列</tspan>
+            <tspan x="501" y="303">表</tspan>
+        </text>
+        <text id="动态详情界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="654.648438" y="367">动态详情界面</tspan>
+        </text>
+        <text id="个人信息编辑界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="654.648438" y="428">个人信息编辑</tspan>
+            <tspan x="678.648438" y="445">界面</tspan>
+        </text>
+        <path d="M282,299 L282,499" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M282,359 L322,359" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M282,434 L322,434" id="Line" stroke="#979797" stroke-dasharray="5"></path>
+        <path d="M282,501 L322,501" id="Line" stroke="#979797" stroke-dasharray="5"></path>
+        <text id="群聊的列表" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="537.765625" y="286">群聊的</tspan>
+            <tspan x="543.765625" y="303">列表</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-68)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-67"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-70)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-69"></use>
+        <text id="当前聊天好友的聊天界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="643" y="276">当前聊天</tspan>
+            <tspan x="643" y="293">好友的聊</tspan>
+            <tspan x="649" y="310">天界面</tspan>
+        </text>
+        <text id="当前群聊的聊天界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="697.765625" y="276">当前群</tspan>
+            <tspan x="697.765625" y="293">聊的聊</tspan>
+            <tspan x="697.765625" y="310">天界面</tspan>
+        </text>
+        <text id="App总体架构图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="312.71" y="21">App总体架构图</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-72)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-71"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-74)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-73"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-76)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-75"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-78)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-77"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-80)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-79"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-82)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-81"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-84)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-83"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-86)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-85"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-88)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-87"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-90)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-89"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-92)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-91"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-94)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-93"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-96)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-95"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-98)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-97"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-100)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-99"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-102)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-101"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-104)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-103"></use>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-106)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-105"></use>
+        <path d="M152,759 L92,759" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M92,759 L102.8,762 L102.8,756 L92,759 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M92,775 L152,775" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M152,775 L141.2,772 L141.2,778 L152,775 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M242,949 L320,949" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M320,949 L309.2,946 L309.2,952 L320,949 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M427,941 L477,941" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M477,941 L466.2,938 L466.2,944 L477,941 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M427,1153 L477,1153" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M477,1153 L466.2,1150 L466.2,1156 L477,1153 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M435,1013 L485,1013" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M485,1013 L474.2,1010 L474.2,1016 L485,1013 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M435,1083 L480,1083" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M480,1083 L469.2,1080 L469.2,1086 L480,1083 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M582,1013 L632,1013" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M632,1013 L621.2,1010 L621.2,1016 L632,1013 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M587,1083 L627,1083" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M627,1083 L616.2,1080 L616.2,1086 L627,1083 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M92,949 L152,949" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M152,949 L141.2,946 L141.2,952 L152,949 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M202,839 L202,899" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M202,899 L205,888.2 L199,888.2 L202,899 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="LoginController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="9.962" y="734">LoginContr</tspan>
+            <tspan x="29.144" y="751">oller</tspan>
+        </text>
+        <use id="Rectangle-7" stroke="#979797" mask="url(#mask-108)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-107"></use>
+        <path d="M152,799 L92,799" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M92,799 L102.8,802 L102.8,796 L92,799 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M92,815 L152,815" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M152,815 L141.2,812 L141.2,818 L152,815 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="ActiveController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="8.33" y="824">ActiveContr</tspan>
+            <tspan x="29.144" y="841">oller</tspan>
+        </text>
+        <text id="ActiveAndLoginContro" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="171.548" y="784">ActiveAndL</tspan>
+            <tspan x="169.154" y="801">oginControll</tspan>
+            <tspan x="197.48" y="818">er</tspan>
+        </text>
+        <text id="AheadNavigationContr" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="169.88" y="935">AheadNavig</tspan>
+            <tspan x="170.036" y="952">ationContro</tspan>
+            <tspan x="194.66" y="969">ller</tspan>
+        </text>
+        <text id="ContactController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="322.452" y="943">ContactController</tspan>
+        </text>
+        <text id="TrendController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="328.482" y="1015">TrendController</tspan>
+        </text>
+        <text id="LeftView" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="347.544" y="1087">LeftView</tspan>
+        </text>
+        <text id="UnderView" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="342.096" y="1157">UnderView</tspan>
+        </text>
+        <text id="ProfileController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="486.924484" y="1068">Prof</tspan>
+            <tspan x="487.788484" y="1081">ileC</tspan>
+            <tspan x="487.378984" y="1094">ontr</tspan>
+            <tspan x="486.879484" y="1107">oller</tspan>
+        </text>
+        <text id="SearchController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="510.271984" y="1068">Sear</tspan>
+            <tspan x="511.531984" y="1081">chC</tspan>
+            <tspan x="511.378984" y="1094">ontr</tspan>
+            <tspan x="510.879484" y="1107">oller</tspan>
+        </text>
+        <text id="GameController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="534.042484" y="1068">Gam</tspan>
+            <tspan x="535.360984" y="1081">eCo</tspan>
+            <tspan x="534.321484" y="1094">ntrol</tspan>
+            <tspan x="538.573984" y="1107">ler</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-110)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-109"></use>
+        <text id="SettingController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="558.082984" y="1068">Setti</tspan>
+            <tspan x="559.320484" y="1081">ngC</tspan>
+            <tspan x="559.378984" y="1094">ontr</tspan>
+            <tspan x="558.879484" y="1107">oller</tspan>
+        </text>
+        <text id="SchoolController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="502.963984" y="997">Sch</tspan>
+            <tspan x="501.163984" y="1010">oolC</tspan>
+            <tspan x="502.378984" y="1023">ontr</tspan>
+            <tspan x="501.879484" y="1036">oller</tspan>
+        </text>
+        <text id="interestController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="525.366484" y="997">inter</tspan>
+            <tspan x="525.127984" y="1010">estC</tspan>
+            <tspan x="526.378984" y="1023">ontr</tspan>
+            <tspan x="525.879484" y="1036">oller</tspan>
+        </text>
+        <text id="ClassController" font-family="PingFangSC-Regular, PingFang SC" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="549.649984" y="997">Clas</tspan>
+            <tspan x="550.585984" y="1010">sCo</tspan>
+            <tspan x="549.321484" y="1023">ntrol</tspan>
+            <tspan x="553.573984" y="1036">ler</tspan>
+        </text>
+        <text id="BuddyChatController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="488.162438" y="1148">BuddyChatCont</tspan>
+            <tspan x="518.102437" y="1165">roller</tspan>
+        </text>
+        <text id="BuddyListController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="484.506" y="926">BuddyLi</tspan>
+            <tspan x="482.766" y="943">stContro</tspan>
+            <tspan x="498.66" y="960">ller</tspan>
+        </text>
+        <text id="TrendDetailControlle" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="650.664437" y="1007">TrendDetailCo</tspan>
+            <tspan x="671.118438" y="1024">ntroller</tspan>
+        </text>
+        <text id="PersonalDetailEditCo" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="650.616437" y="1078">PersonalDetail</tspan>
+            <tspan x="652.230437" y="1095">EditController</tspan>
+        </text>
+        <path d="M282,949 L282,1149" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M282,1009 L322,1009" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M282,1084 L322,1084" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="5"></path>
+        <path d="M282,1151 L322,1151" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="5"></path>
+        <text id="GroupListController" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#000000">
+            <tspan x="535.476125" y="926">GroupLi</tspan>
+            <tspan x="536.774125" y="942">stContr</tspan>
+            <tspan x="544.897625" y="958">oller</tspan>
+        </text>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-112)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-111"></use>
+        <use id="Rectangle-2" stroke="#979797" mask="url(#mask-114)" stroke-width="2" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-113"></use>
+        <text id="BuddyChatController" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="645.202" y="926">BuddyC</tspan>
+            <tspan x="642.622" y="943">hatContr</tspan>
+            <tspan x="655.144" y="960">oller</tspan>
+        </text>
+        <text id="GroupChatController" font-family="PingFangSC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#000000">
+            <tspan x="696.114125" y="926">GroupC</tspan>
+            <tspan x="695.426625" y="942">hatCont</tspan>
+            <tspan x="702.890125" y="958">roller</tspan>
+        </text>
+        <text id="App总体类文件名图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="292.71" y="693">App总体类文件名图</tspan>
+        </text>
+        <text id="App主要结构及功能说明示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="1135.66313" y="116">App主要结构及功能说明示意图</tspan>
+        </text>
+        <text id="App激活登录界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="1854.66313" y="118">App激活登录界面功能示意图</tspan>
+        </text>
+        <text id="App总导航及子界面结构功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="2653.11039" y="120">App总导航及子界面结构功能示意图</tspan>
+        </text>
+        <text id="联系人界面结构功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="3615.40039" y="116">联系人界面结构功能示意图</tspan>
+        </text>
+        <text id="好友列表界面结构功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="3605.40039" y="464">好友列表界面结构功能示意图</tspan>
+        </text>
+        <text id="群聊列表界面结构功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="3606.40039" y="732">群聊列表界面结构功能示意图</tspan>
+        </text>
+        <text id="个人信息界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="2688.40039" y="438">个人信息界面功能示意图</tspan>
+        </text>
+        <text id="搜索界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="2708.40039" y="747">搜索界面功能示意图</tspan>
+        </text>
+        <text id="设置界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="2708.40039" y="1257">设置界面功能示意图</tspan>
+        </text>
+        <text id="总导航" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2520.5" y="282">总导航</tspan>
+        </text>
+        <path d="M2578.49375,277.5 L2656.50625,277.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="置顶的视图" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="2593" y="268">置顶的视图</tspan>
+        </text>
+        <text id="嵌有个人信息栏、搜索按钮、摇人按钮、设置" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2824.21064" y="238">嵌有个人信息栏、搜索按</tspan>
+            <tspan x="2818.21064" y="255">钮、摇人按钮、设置按钮、</tspan>
+            <tspan x="2866.21064" y="272">退出按钮</tspan>
+        </text>
+        <text id="嵌有展现其他聊天好友列表按钮，以及当前聊" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2818.21064" y="302">嵌有展现其他聊天好友列表</tspan>
+            <tspan x="2818.21064" y="319">按钮，以及当前聊天好友头</tspan>
+            <tspan x="2818.21064" y="336">像、最后一条消息、时间的</tspan>
+            <tspan x="2878.21064" y="353">标签</tspan>
+        </text>
+        <path d="M2969,239 L3018,239" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M3018,239 L3007.2,236 L3007.2,242 L3018,239 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2969,319 L3018,319" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M3018,319 L3007.2,316 L3007.2,322 L3018,319 Z" stroke="#979797" stroke-linecap="square"></path>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-116)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-115"></use>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-118)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-117"></use>
+        <text id="个人信息界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2437.5" y="517">个人信息界</tspan>
+            <tspan x="2461.5" y="534">面</tspan>
+        </text>
+        <path d="M2510,518 L2569,518" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2911,517 L2970,517" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="有展示用户头像、用户姓名、用户学号、用户" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2569" y="507">有展示用户头像、用户姓名、用户学</tspan>
+            <tspan x="2569" y="524">号、用户性别、用户班级的标签、以</tspan>
+            <tspan x="2569" y="541">及编辑按钮</tspan>
+        </text>
+        <text id="有搜索聊天群，以及人的文本输入框，以及兴" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2760" y="856">有搜索聊天群，以及人的文本输入</tspan>
+            <tspan x="2760" y="873">框，以及兴趣选择按钮，搜索按钮</tspan>
+        </text>
+        <text id="有设置用户头像、用户姓名、用户学号、用户" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2969" y="507">有设置用户头像、用户姓名、用户学</tspan>
+            <tspan x="2969" y="524">号、用户性别、以及用户班级的文本</tspan>
+            <tspan x="2969" y="541">输入框、以及完成编辑按钮</tspan>
+        </text>
+        <path d="M3069,546.5 L3069,606.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M3069,606.5 L3072,595.7 L3066,595.7 L3069,606.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <use id="Rectangle-56" stroke="#979797" mask="url(#mask-120)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-119"></use>
+        <path d="M2761.49265,518.5 L2827.50735,518.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M2827.50735,518.5 L2816.70735,515.5 L2816.70735,521.5 L2827.50735,518.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="编辑个人信息界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2838" y="516">编辑个人信</tspan>
+            <tspan x="2838" y="533">息界面</tspan>
+        </text>
+        <text id="选择进入相册" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="3039" y="633">选择</tspan>
+            <tspan x="3039" y="647">进入</tspan>
+            <tspan x="3039" y="661">相册</tspan>
+        </text>
+        <text id="选择进入摄像机" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="3079" y="633">选择</tspan>
+            <tspan x="3079" y="647">进入</tspan>
+            <tspan x="3079" y="661">摄像</tspan>
+            <tspan x="3079" y="675">机</tspan>
+        </text>
+        <text id="换头像通过下方弹出控件得到图片" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#000000">
+            <tspan x="3071" y="563">换头像通过下</tspan>
+            <tspan x="3071" y="577">方弹出控件得</tspan>
+            <tspan x="3071" y="591">到图片</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-122)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-121"></use>
+        <text id="搜索界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2632" y="865">搜索界面</tspan>
+        </text>
+        <path d="M2696,861 L2755,861" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="下有激活和登录两个按钮，可选择激活，登录" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1795" y="263">下有激活和登录两个按钮，可选择激</tspan>
+            <tspan x="1795" y="280">活，登录两个界面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-124)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-123"></use>
+        <text id="激活登录界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1661" y="267">激活登录界</tspan>
+            <tspan x="1685" y="284">面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-126)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-125"></use>
+        <text id="登录界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2092" y="337">登录界面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-128)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-127"></use>
+        <text id="激活界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2092" y="204">激活界面</tspan>
+        </text>
+        <path d="M1731,268 L1790,268" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="有设置主题的选择，设置动态里兴趣的选择，" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2760" y="1356">有设置主题的选择，设置动态里兴趣</tspan>
+            <tspan x="2760" y="1373">的选择，以及显示版本号的标签</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-130)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-129"></use>
+        <text id="设置界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2632" y="1365">设置界面</tspan>
+        </text>
+        <path d="M2696,1361 L2755,1361" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="摇人界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="2708.40039" y="1007">摇人界面功能示意图</tspan>
+        </text>
+        <text id="待定" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2760" y="1106">待定</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-132)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-131"></use>
+        <text id="摇人界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2632" y="1115">摇人界面</tspan>
+        </text>
+        <path d="M2696,1111 L2755,1111" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="左下角有显示所有聊天好友列表的按钮，以及" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3919" y="554">左下角有显示所有聊天好友列表的按</tspan>
+            <tspan x="3919" y="571">钮，以及发照片，发送视频，发送语</tspan>
+            <tspan x="3919" y="588">音，发送信息的按钮，右上角为显示</tspan>
+            <tspan x="3919" y="605">正在聊天好友的详细信息按钮</tspan>
+        </text>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-134)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-133"></use>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-136)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-135"></use>
+        <text id="好友列表界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3353.5" y="574">好友列表界</tspan>
+            <tspan x="3377.5" y="591">面</tspan>
+        </text>
+        <path d="M3426,575 L3485,575" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="显示所有好友，以及好友的头像，名称，性别" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3489" y="578">显示所有好友，以及好友的头像，名</tspan>
+            <tspan x="3489" y="595">称，性别，年级</tspan>
+        </text>
+        <path d="M3692.49265,575.5 L3758.50735,575.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M3758.50735,575.5 L3747.70735,572.5 L3747.70735,578.5 L3758.50735,575.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="好友聊天界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3769" y="573">好友聊天界</tspan>
+            <tspan x="3769" y="590">面</tspan>
+        </text>
+        <path d="M3842.49359,575.5 L3918.50641,575.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="左下角有显示所有群聊人员列表的按钮，以及" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3878" y="832">左下角有显示所有群聊人员列表的按</tspan>
+            <tspan x="3878" y="849">钮，以及发照片，发送视频，发送语</tspan>
+            <tspan x="3878" y="866">音，发送信息的按钮，右上角为显示</tspan>
+            <tspan x="3878" y="883">正在</tspan>
+        </text>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-138)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-137"></use>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-140)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-139"></use>
+        <text id="群聊列表界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3362.5" y="842">群聊列表界</tspan>
+            <tspan x="3386.5" y="859">面</tspan>
+        </text>
+        <path d="M3435,843 L3494,843" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="显示所有群聊的名称，类别" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3505" y="846">显示所有群聊的名称，类别</tspan>
+        </text>
+        <path d="M3651.49265,843.5 L3717.50735,843.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M3717.50735,843.5 L3706.70735,840.5 L3706.70735,846.5 L3717.50735,843.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="群聊聊天界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3728" y="841">群聊聊天界</tspan>
+            <tspan x="3728" y="858">面</tspan>
+        </text>
+        <path d="M3801.49359,843.5 L3877.50641,843.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="校园界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="4566.40039" y="558">校园界面功能示意图</tspan>
+        </text>
+        <text id="展示单条动态的详细信息，包括赞，所有评论" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4810" y="658">展示单条动态的详细信息，包括赞，</tspan>
+            <tspan x="4810" y="675">所有评论</tspan>
+        </text>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-142)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-141"></use>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-144)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-143"></use>
+        <text id="校园界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4290.5" y="668">校园界面</tspan>
+        </text>
+        <path d="M4357,669 L4416,669" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="展示校园类的动态，坐下角有发动态图标" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4427" y="662">展示校园类的动态，坐下角</tspan>
+            <tspan x="4427" y="679">有发动态图标</tspan>
+        </text>
+        <path d="M4583.49265,669.5 L4649.50735,669.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M4649.50735,669.5 L4638.70735,666.5 L4638.70735,672.5 L4649.50735,669.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="动态详情界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4660" y="667">动态详情界</tspan>
+            <tspan x="4660" y="684">面</tspan>
+        </text>
+        <path d="M4733.49359,669.5 L4809.50641,669.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="兴趣界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="4560.40039" y="842">兴趣界面功能示意图</tspan>
+        </text>
+        <text id="展示单条动态的详细信息，包括赞，所有评论" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4810" y="918">展示单条动态的详细信息，包括赞，</tspan>
+            <tspan x="4810" y="935">所有评论</tspan>
+        </text>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-146)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-145"></use>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-148)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-147"></use>
+        <text id="兴趣界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4290.5" y="928">兴趣界面</tspan>
+        </text>
+        <path d="M4357,929 L4416,929" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="展示兴趣类的动态，坐下角有发动态图标" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4427" y="922">展示兴趣类的动态，</tspan>
+            <tspan x="4535" y="922">坐下角</tspan>
+            <tspan x="4427" y="939">有发动态图标</tspan>
+        </text>
+        <path d="M4583.49265,929.5 L4649.50735,929.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M4649.50735,929.5 L4638.70735,926.5 L4638.70735,932.5 L4649.50735,929.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="动态详情界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4660" y="927">动态详情界</tspan>
+            <tspan x="4660" y="944">面</tspan>
+        </text>
+        <path d="M4733.49359,929.5 L4809.50641,929.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="班级界面功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="4547.40039" y="1077">班级界面功能示意图</tspan>
+        </text>
+        <text id="展示单条动态的详细信息，包括赞，所有评论" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4810" y="1178">展示单条动态的详细信息，包括赞，</tspan>
+            <tspan x="4810" y="1195">所有评论</tspan>
+        </text>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-150)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-149"></use>
+        <use id="Rectangle-54" stroke="#979797" mask="url(#mask-152)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-151"></use>
+        <text id="班级界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4290.5" y="1188">班级界面</tspan>
+        </text>
+        <path d="M4357,1189 L4416,1189" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="展示班级类的动态，坐下角有发动态图标" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4427" y="1182">展示班级类的动态，</tspan>
+            <tspan x="4535" y="1182">坐下角</tspan>
+            <tspan x="4427" y="1199">有发动态图标</tspan>
+        </text>
+        <path d="M4583.49265,1189.5 L4649.50735,1189.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M4649.50735,1189.5 L4638.70735,1186.5 L4638.70735,1192.5 L4649.50735,1189.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="动态详情界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4660" y="1187">动态详情界</tspan>
+            <tspan x="4660" y="1204">面</tspan>
+        </text>
+        <path d="M4733.49359,1189.5 L4809.50641,1189.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M1994,271 L2034,271" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2035,231 L2075,231" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2035,312 L2075,312" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2154,204 L2194,204" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2154,342 L2194,342" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M2035,232 L2035,312" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="有学号，以及身份证进行验证的提示标签和输" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2193" y="198">有学号，以及身份证进行验</tspan>
+            <tspan x="2193" y="215">证的提示标签和输入文本</tspan>
+            <tspan x="2193" y="232">框，还有激活按钮</tspan>
+        </text>
+        <text id="有学号以及密码进行登录的提示标签和输入文" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="2193" y="328">有学号以及密码进行登录的</tspan>
+            <tspan x="2193" y="345">提示标签和输入文本框，以</tspan>
+            <tspan x="2193" y="362">及登录按钮</tspan>
+        </text>
+        <text id="--分两栏，好友和群组" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3571" y="270">  分两栏，好友和群组</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-154)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-153"></use>
+        <text id="联系人界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3437" y="267">联系人界面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-156)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-155"></use>
+        <text id="群聊列表界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3787" y="334">群聊列表界</tspan>
+            <tspan x="3811" y="351">面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-158)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-157"></use>
+        <text id="好友列表界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3787" y="201">好友列表界</tspan>
+            <tspan x="3811" y="218">面</tspan>
+        </text>
+        <path d="M3507,268 L3566,268" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M3695,268 L3735,268" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M3736,228 L3776,228" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M3736,309 L3776,309" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M3855,201 L3895,201" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M3855,339 L3895,339" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M3736,229 L3736,309" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="有所有好友的列表" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3897" y="202">有所有好友的列表</tspan>
+        </text>
+        <text id="有所有群聊的列表" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="3897" y="343">有所有群聊的列表</tspan>
+        </text>
+        <text id="动态界面结构功能示意图" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#000000">
+            <tspan x="4525.40039" y="116">动态界面结构功能示意图</tspan>
+        </text>
+        <text id="--分三栏，校园、兴趣、班级" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4471" y="311">  分三栏，校园、兴</tspan>
+            <tspan x="4471" y="328">趣、班级</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-160)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-159"></use>
+        <text id="动态界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4343" y="308">动态界面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-162)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-161"></use>
+        <text id="兴趣界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4693" y="306">兴趣界面</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-164)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-163"></use>
+        <text id="校园界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4693" y="201">校园界面</tspan>
+        </text>
+        <path d="M4407,309 L4466,309" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4595,308 L4635,308" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4636,228 L4676,228" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4676,390 L4636,390" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4755,201 L4795,201" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4755,307 L4795,307" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4636,229 L4636,309" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4636,308 L4676,308" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M4636,390 L4636,310" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="展示校园类的动态" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4797" y="202">展示校园类的动态</tspan>
+        </text>
+        <use id="Rectangle-57" stroke="#979797" mask="url(#mask-166)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-165"></use>
+        <text id="班级界面" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4693" y="410">班级界面</tspan>
+        </text>
+        <path d="M4755,410 L4795,410" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <text id="展示班级类的动态" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4797" y="411">展示班级类的动态</tspan>
+        </text>
+        <text id="展示兴趣类的动态" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="4797" y="311">展示兴趣类的动态</tspan>
+        </text>
+        <path d="M202,30.5 L202,81.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M202,81.5 L205,70.7 L199,70.7 L202,81.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M202,690.5 L202,741.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M202,741.5 L205,730.7 L199,730.7 L202,741.5 Z" stroke="#979797" stroke-linecap="square"></path>
+    </g>
+</svg>
